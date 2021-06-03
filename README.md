@@ -6,6 +6,7 @@ Virtually stain the label-free autofluoroscence image to Hematoxylin and Eosin i
 #### Run Testing with pretrained models
 The testing data is stored in Data/Fixed/Test/A.
 The pretrained model has to be downloaded from the following link, then put the downloaded models into save_models/Fixed/
+Testing results will be saved into test_results/Fixed/
 
 $ cd Deep_CHAMP
 
