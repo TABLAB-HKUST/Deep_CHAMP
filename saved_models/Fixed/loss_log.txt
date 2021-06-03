@@ -1,3 +1,0 @@
-(epoch: 0, iters: 0, D loss: 1.679854, G loss: 8.196065,adv: 2.039398, cycle: 0.574251, identity: 0.551481, ssim: 0.069207) 
-(epoch: 0, iters: 0, D loss: 1.380171, G loss: 8.263206,adv: 1.494865, cycle: 0.611499, identity: 0.578113, ssim: 0.182146) 
-(epoch: 0, iters: 100, D loss: 0.255936, G loss: 2.457919,adv: 0.495579, cycle: 0.153921, identity: 0.183804, ssim: 0.165616) 
