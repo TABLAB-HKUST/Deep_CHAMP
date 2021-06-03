@@ -3,7 +3,7 @@
 Training and testing script for Deep-champ. 
 Virtually stain the label-free autofluoroscence image to Hematoxylin and Eosin images
 
-#### Run Example for testing
+#### Run Example for testing with pretrained models
 $ cd Deep_CHAMP
 
 $ python test.py --dataset_name Fixed
