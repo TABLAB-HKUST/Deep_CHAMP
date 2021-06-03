@@ -11,6 +11,8 @@ https://drive.google.com/drive/folders/19K7tGo4eQ0cQUACzc-VnRhUTOwjGAcRL?usp=sha
 
 Click on the link, then right click on the Folder "Fixed" to download the folder,then unzip the folder and put the unzipped folder "Fixed" under "saved_checkpionts"
 
+Now you can run the tetsing.
+
 Testing results will be saved into test_results/Fixed/
 
 $ cd Deep_CHAMP
